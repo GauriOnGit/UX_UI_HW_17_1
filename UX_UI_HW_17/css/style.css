@@ -1,0 +1,76 @@
+nav {
+    background-color: #F5F5F5 justify content: flex-end;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 250px;
+    vertical-align: top;
+    position: justify-right;
+}
+
+nav a {
+    color: #6A92B7;
+    font-family: 'Lato', 'SeoulNamsan';
+    font-size: 16px;
+    font-style: extra bold;
+    padding: 60px;
+}
+
+
+h1 {
+    color: #F5F5F5;
+    font-size: 40px;
+    font-style: extra bold;
+    stroke: 2px #747470;
+}
+
+h3 {
+    color: #F5F5F5;
+    font-size: 32px;
+    font-style: extra bold;
+    stroke: 1px #747470;
+}
+
+h8 {
+    color: #686565;
+    font-size: 12px;
+    font-style: extra bold;
+}
+
+.nav li {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.footer li {
+    display: inline-block;
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+.image-container img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.text-overlay {
+    position: absolute;
+    top: 0%;
+    left: 2%;
+    width: 100% display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.right-text {
+    align-self: flex-start;
+}
+
+.left-text {
+    align-self: flex-end;
+}
