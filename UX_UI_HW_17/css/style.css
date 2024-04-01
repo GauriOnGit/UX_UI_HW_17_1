@@ -1,5 +1,6 @@
 nav {
-    background-color: #F5F5F5 justify content: flex-end;
+    background-color: #F5F5F5;
+    justify-content: flex-end;
 }
 
 nav li {
